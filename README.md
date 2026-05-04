@@ -26,13 +26,15 @@ A full-stack application to **search, analyze, and visualize residential floor p
 
 ## Output
 
-  <img width="786" height="559" alt="image" src="https://github.com/user-attachments/assets/02c86516-a2e5-4e4b-9137-c4fce1acbc25" />
-
-  User Interface for Floor Plan Selection 
-  <img width="806" height="525" alt="image" src="https://github.com/user-attachments/assets/6a851f63-da73-4347-b1fa-43c38d12b096" />
-  2D Furniture Placement Interface
+  <img width="611" height="540" alt="2" src="https://github.com/user-attachments/assets/d10ae601-e0ff-44fc-9731-71426ea54a5d" />
+  <br>
+  <center>User Interface for Floor Plan Selection</center>
+  <img width="854" height="591" alt="5" src="https://github.com/user-attachments/assets/900f5dd4-07c6-4c56-9483-448d93e92755" />
+  <br>
+  <center>2D Furniture Placement Interface</center>
   <img width="746" height="454" alt="image" src="https://github.com/user-attachments/assets/5b5bece4-1c57-41fd-9a51-e344efb3a80f" />
-  3D Floor Plan Visualization with Furniture
+  <br>
+  <center>3D Floor Plan Visualization with Furniture</center>
 
 ## 🏗️ Tech Stack
 
