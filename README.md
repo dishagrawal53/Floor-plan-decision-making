@@ -33,12 +33,12 @@ Designing residential layouts requires architectural expertise and multiple iter
 
 ### 🏠 Floor Plan Selection Interface
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d10ae601-e0ff-44fc-9731-71426ea54a5d" width="70%"/>
+  <img src="https://github.com/user-attachments/assets/d10ae601-e0ff-44fc-9731-71426ea54a5d" width="100%"/>
 </p>
 
 ### 🛋️ 2D Furniture Placement Interface
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/900f5dd4-07c6-4c56-9483-448d93e92755" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/900f5dd4-07c6-4c56-9483-448d93e92755" width=100%"/>
 </p>
 
 ### 🧊 3D Floor Plan Visualization
