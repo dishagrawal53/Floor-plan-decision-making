@@ -1,4 +1,4 @@
-# 🏠 Layout Lens
+# 🏠 Plan Insight
 ### Floor Plan Analysis & Visualization System
 
 A full-stack application to **search, analyze, and visualize residential floor plans** with spatial analysis, Vastu-based evaluation, and interactive 2D/3D design tools.
