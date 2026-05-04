@@ -1,0 +1,21 @@
+backend/ResPlan.pkl
+# Environment files
+backend/.env
+frontend/.env
+
+# Node modules
+frontend/node_modules/
+
+frontend/package-lock
+# Lock file inside threed folder
+frontend/threed/
+
+# Optional: ignore all node_modules everywhere
+node_modules/
+
+# Optional: ignore all .env files anywhere
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
