@@ -45,7 +45,8 @@ Designing residential layouts requires architectural expertise and multiple iter
 
 ### 🧊 3D Floor Plan Visualization
 <p align="center">
- <img width="1366" height="648" alt="6" src="https://github.com/user-attachments/assets/51833556-eeb1-400e-8739-0c8f2ff98b8e" />
+ <img width="1366" height="646" alt="7" src="https://github.com/user-attachments/assets/f6bf5e6d-2077-45d5-a535-524aee16c8ea" />
+
 
 </p>
 
