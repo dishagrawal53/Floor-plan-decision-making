@@ -1,53 +1,52 @@
-# 🏠 Plan Insight
+# 🏠 Plan Insight  
 ### Floor Plan Analysis & Visualization System
 
-A full-stack application to **search, analyze, and visualize residential floor plans** with spatial analysis, Vastu-based evaluation, and interactive 2D/3D design tools.
+A full-stack decision support system for **selecting and visualizing residential floor plans** using dataset-driven filtering, spatial analysis, and interactive 2D/3D design tools.
+
+---
+
+## 📌 Problem
+
+Designing residential layouts requires architectural expertise and multiple iterations. Existing tools either generate layouts or lack structured evaluation, making it difficult for users to compare and choose efficient designs.
+
+---
+
+## 🧠 Approach
+
+- Utilized the **ResPlan dataset (17,000+ layouts)** with polygon-based representations  
+- Implemented **geometric filtering + rule-based evaluation** (space utilization & orientation analysis)  
+- Built an **interactive system** for selection, comparison, and visualization of layouts  
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **Search & Filter**  
-  Filter 17,000+ floor plans by area, rooms, and features with fast in-memory processing  
-
-- 📐 **Vastu Evaluation**  
-  Analyze room orientations, evaluate multiple rotations, and compute weighted compliance scores  
-
-- 🖼️ **2D Visualization**  
-  Render floor plans with dimensions and room-wise coloring  
-
-- 🛋️ **2D Furniture Designer**  
-  Drag, rotate, resize, and export layouts using HTML5 Canvas  
-
-- 🧊 **3D Viewer**  
-  Explore plans in 3D with real-time controls and furniture placement using Three.js  
+- 🔍 Filter floor plans based on area, rooms, and features  
+- 📐 Evaluate layouts using **space efficiency & directional analysis**  
+- 🖼️ 2D visualization using GeoPandas & Matplotlib  
+- 🛋️ Interactive 2D furniture placement (drag & drop)  
+- 🧊 Real-time 3D visualization using Three.js  
 
 ---
 
-## Output
+## 📸 Output
 
-  <img width="611" height="540" alt="2" src="https://github.com/user-attachments/assets/d10ae601-e0ff-44fc-9731-71426ea54a5d" />
-  <br>
-  
-  <center>User Interface for Floor Plan Selection</center>
-  
-  <br>
-  
-  <img width="854" height="591" alt="5" src="https://github.com/user-attachments/assets/900f5dd4-07c6-4c56-9483-448d93e92755" />
-  
-  <br>
-  
-  <center>2D Furniture Placement Interface</center>
-  
-  <br>
-  
-  <img width="746" height="454" alt="image" src="https://github.com/user-attachments/assets/5b5bece4-1c57-41fd-9a51-e344efb3a80f" />
-  
-  <br>
-  
-  <center>3D Floor Plan Visualization with Furniture</center>
-  
-  <br>
+### 🏠 Floor Plan Selection Interface
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d10ae601-e0ff-44fc-9731-71426ea54a5d" width="70%"/>
+</p>
+
+### 🛋️ 2D Furniture Placement Interface
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/900f5dd4-07c6-4c56-9483-448d93e92755" width="80%"/>
+</p>
+
+### 🧊 3D Floor Plan Visualization
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b5bece4-1c57-41fd-9a51-e344efb3a80f" width="75%"/>
+</p>
+
+---
 
 ## 🏗️ Tech Stack
 
@@ -60,6 +59,3 @@ React.js, HTML5 Canvas, Three.js
 **Communication:**  
 REST APIs (JSON)
 
----
-
-## ⚙️ Architecture
